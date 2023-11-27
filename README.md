@@ -4,6 +4,7 @@ This is the completed source code for the issue tracker project we build in my U
 
 https://codewithmosh.com/p/ultimate-nextjs-series
 video link: https://www.youtube.com/watch?v=J9sfR6HN6BY&ab_channel=ProgrammingwithMosh
+
 To get started, follow these steps:
 
 1. Clone this repository to your local machine. 
